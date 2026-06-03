@@ -889,9 +889,9 @@
     }
   },
   "git_nar_sha256": {
-    "furui-0.1.0": "sha256-/cXSrf+5gFD37oBAZRnh3xGL0Pxe13fXm7ge2OeVYVQ=",
-    "tane-0.1.0": "sha256-Va5xgILTX9CDnfIqLGKPpgeoTHGiPjmwpoz3TQUvhrw=",
-    "waku-0.1.0": "sha256-dFnUioA3v6kXoVLKDhyBuyrYcJ+jLI7Q3tguDuJ66b0="
+    "furui-0.1.0": "sha256-xkc5Hu4Y+hI7FtKqfPR0iepgR3XIaWMCyaAdcO+VNqE=",
+    "tane-0.1.0": "sha256-m1bKZTU6iOF0tn4MkCd3QM1QXe6/lNGDSJ95khONvJg=",
+    "waku-0.1.0": "sha256-/ofIJso97JjzWLOUy8Wm1luVIOiYawyopLE5qLk8grY="
   },
   "flake_metadata": {}
 }
